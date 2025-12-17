@@ -1,0 +1,10 @@
+County,age_L,age_U,node,N,pct_positive,num_positive
+Total,0,4,NA,702,0.169,119
+Total,5,9,NA,802,0.298333333,239
+Total,10,14,NA,724,0.34,246
+Bungoma,NA,NA,23,272,0.18,49
+Busia,NA,NA,34,292,0.37,108
+Homabay,NA,NA,46,321,0.205,66
+Kisumu,NA,NA,9,286,0.26,74
+Migori,NA,NA,20,261,0.32,84
+Siaya,NA,NA,32,232,0.29,67
